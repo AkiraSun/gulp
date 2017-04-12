@@ -1,0 +1,13 @@
+body {
+  background-color: red;
+}
+
+body h1 {
+  color: #ff0;
+}
+
+body div {
+  width: 4rem;
+  height: 4rem;
+  background-color: #00f;
+}
